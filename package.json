@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "veydrion",
+=======
+  "name": "locinest",
+>>>>>>> b34a2e4 (DevTrack: Initial commit with existing project files)
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

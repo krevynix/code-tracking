@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Veydrion",
     "slug": "Veydrion",
+=======
+    "name": "LociNest",
+    "slug": "LociNest",
+>>>>>>> b34a2e4 (DevTrack: Initial commit with existing project files)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
